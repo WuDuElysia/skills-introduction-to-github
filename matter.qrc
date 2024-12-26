@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>img/background.png</file>
+        <file>img/background_1.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>img/Like_0.png</file>
+        <file>img/Like_1.png</file>
+        <file>img/pushButton_1_0.png</file>
+        <file>img/pushButton_1_1.png</file>
+        <file>img/pushButton_2_0.png</file>
+        <file>img/pushButton_2_1.png</file>
+        <file>img/pushButton_4_0.png</file>
+        <file>img/pushButton_4_1.png</file>
+        <file>img/pushButton_PlayerAction_0.png</file>
+        <file>img/pushButton_PlayerAction_1.png</file>
+        <file>img/pushButton_3_0.png</file>
+        <file>img/pushButton_3_1.png</file>
+        <file>img/Page4_pushbutton.png</file>
+        <file>img/pushbutton_player_left.png</file>
+        <file>img/pushbutton_player_right.png</file>
+        <file>img/pushButton_player_like_0.png</file>
+        <file>img/pushButton_player_like_1.png</file>
+        <file>img/pushButton_search.png</file>
+        <file>img/pushButton_6_0.png</file>
+        <file>img/pushButton_6_1.png</file>
+        <file>img/pushButton_5_0.png</file>
+        <file>img/pushButton_5_1.png</file>
+    </qresource>
+    <qresource prefix="/test_img">
+        <file>img/ggy.jpg</file>
+    </qresource>
+    <qresource prefix="/media">
+        <file>media/HOYO-MiX Swordward.mp3</file>
+    </qresource>
+</RCC>
